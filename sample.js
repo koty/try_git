@@ -1,6 +1,7 @@
 function a() {
-    console.log('piyo' + 'winmac');
+   console.log('piyo' + 'winwin');
 }
+
 
 function b() {
     console.log('fuga' + 'mac');
