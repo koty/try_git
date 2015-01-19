@@ -1,5 +1,5 @@
 function a() {
-    console.log('piyo');
+    console.log('piyo' + 'win');
 }
 
 function b() {
