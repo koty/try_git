@@ -1,5 +1,5 @@
 function a() {
-    console.log('piyo2');
+    console.log('piyo2+windows');
 }
 
 function b() {
