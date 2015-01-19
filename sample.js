@@ -3,5 +3,5 @@ function a() {
 }
 
 function b() {
-    console.log('fuga');
+    console.log('fuga' + 'mac');
 }
